@@ -9,9 +9,13 @@
  <img src="https://img.shields.io/github/license/norahmad/jso-generator" alt="License"> <br>
  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fnorahmad%2Fjso-generator" alt="Twitter"> <br>
 
+
+<p align="center">
+Made with ❤️ by <a href="https://github.com/norahmad">Nor Ahmad</a>
+</p>
  <h4 align="center">Web Bassed ( index.php )</h4> <br>
- <img src="https://i.ibb.co/7n0tX39/image.png" alt="Web Bassed" width="350">
+ <img src="https://i.ibb.co/7n0tX39/image.png" alt="Web Bassed" width="350" align="center">
  <h4 align="center">CLI Bassed ( cli.php )</h4> <br> 
- <img src="https://i.ibb.co/2vmxNY3/carbon-4.png" alt="CLI Bassed" width="350">
+ <img src="https://i.ibb.co/2vmxNY3/carbon-4.png" alt="CLI Bassed" width="350" align="center">
  <h4 align="center">API ( Coming Soon! )</h4>
 </p>
