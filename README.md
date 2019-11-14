@@ -23,4 +23,4 @@ Made with ❤️ by <a href="https://github.com/norahmad">Nor Ahmad</a>
  </p>
  <h4 align="center">API ( Coming Soon! )</h4>
 
-<p align="center"><a href="https://apaa.or.id/jso.php">Demo</a></p>
+<p align="center"><a href="https://apaa.or.id/jso.php" target="_blank">Demo Web Bassed</a></p>
