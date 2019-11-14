@@ -1,8 +1,6 @@
-# Script JSO Generator (Javascript Overflay)
-<br> 
-Title       : Script JSO Generator ( Javascript Overflay ) Update <br> 
-Version     : 1.2 <br> 
-Description : Tools JSO Generator ini berguna untuk membantu membuat script JSO secara cepat <br>
+<H1 align="center">Script JSO Generator (Javascript Overflay)
+</H1>
+<H4 align="center">Tools JSO Generator ini berguna untuk membantu membuat script JSO secara cepat </H4>
 
 Tersedia : <br> 
  Web Based ( index.php ) <br>
