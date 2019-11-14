@@ -1,4 +1,4 @@
-<H1 align="center">Script JSO Generator (Javascript Overflay)
+<H1 align="center">Script JSO Generator (Javascript Overlay)
 </H1>
 <H4 align="center">Tools JSO Generator ini berguna untuk membantu membuat script JSO secara cepat </H4>
 
